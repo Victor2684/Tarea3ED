@@ -14,6 +14,8 @@ public class Tarea3ED {
 int a=5;
 int b=5;
 int resu=+a+b;
+String s = "JL ES ";
+    s= s.concat("DIOSITO LINDO");
         System.out.println(resu);
     }
     
